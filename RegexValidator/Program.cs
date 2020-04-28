@@ -17,6 +17,8 @@ namespace RegexValidator
             RegexPhone(myPhone);
             string myDate = "09/09/1992";
             RegexDate(myDate);
+            string myHTML = "<b></b>";
+            RegexHTML(myHTML);
         }
         public static void RegexName(string name)
         {
@@ -56,13 +58,25 @@ namespace RegexValidator
 
         public static void RegexDate(string date)
         {
-            if (!Regex.IsMatch(date, "^([0-2][0-9]|(3)[0-1])(\\/)(((0)[0-9])|((1)[0-2]))(\\/)\\d{4}$"))
+            if (!Regex.IsMatch(date, "^([0-2][0-9]|3[0-1])/(((0)[0-9])|((1)[0-2]))/\\d{4}$"))
             {
                 Console.WriteLine(date + " not validated.");
             }
             else
             {
                 Console.WriteLine(date + " validated.");
+            }
+        }
+
+        public static void RegexHTML(string html)
+        {
+            if (!Regex.IsMatch(html, "^<([a-z])+></([a-z])+>"))
+            {
+                Console.WriteLine(html + " not validated.");
+            }
+            else
+            {
+                Console.WriteLine(html + " validated.");
             }
         }
     }
