@@ -1,0 +1,11 @@
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.exe
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.deps.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.runtimeconfig.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.runtimeconfig.dev.json
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\bin\Debug\netcoreapp3.1\RegexValidator.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\obj\Debug\netcoreapp3.1\RegexValidator.AssemblyInfoInputs.cache
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\obj\Debug\netcoreapp3.1\RegexValidator.AssemblyInfo.cs
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\obj\Debug\netcoreapp3.1\RegexValidator.dll
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\obj\Debug\netcoreapp3.1\RegexValidator.pdb
+C:\Users\imWUMPUS\source\repos\CSharp_April2020\RegexValidator\RegexValidator\obj\Debug\netcoreapp3.1\RegexValidator.csprojAssemblyReference.cache
