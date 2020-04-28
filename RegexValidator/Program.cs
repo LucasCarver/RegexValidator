@@ -58,7 +58,7 @@ namespace RegexValidator
 
         public static void RegexDate(string date)
         {
-            if (!Regex.IsMatch(date, "^([0][1-9]|[1-2][0-9]|3[0-1])/(((0)[1-9])|((1)[0-2]))/\\d{4}$"))
+            if (!Regex.IsMatch(date, "^([0][1-9]|[1-2][0-9]|3[0-1])\\/(((0)[1-9])|((1)[0-2]))\\/\\d{4}$"))
             {
                 Console.WriteLine(date + " not validated.");
             }
