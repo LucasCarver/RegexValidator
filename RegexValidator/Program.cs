@@ -70,7 +70,7 @@ namespace RegexValidator
 
         public static void RegexHTML(string html)
         {
-            if (!Regex.IsMatch(html, "^<([a-z]|[0-9])+></([a-z]|[0-9])+>"))
+            if (!Regex.IsMatch(html, "<([a-z][a-z0-9]*)>.*<\\/(\\1)*>"))
             {
                 Console.WriteLine(html + " not validated.");
             }
